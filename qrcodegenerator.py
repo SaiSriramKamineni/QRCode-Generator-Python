@@ -17,7 +17,7 @@ qr.add_data(data)
 qr.make(fit=True)
 
 # Create an image of the QR code with a more attractive color scheme
-img = qr.make_image(fill_color="darkblue", back_color="lightyellow")
+img = qr.make_image(fill_color="darkblue", back_color="skyblue")
 
 # Save the image to a file
 img.save("github.png")
