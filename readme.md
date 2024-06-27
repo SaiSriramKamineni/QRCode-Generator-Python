@@ -26,6 +26,8 @@ Make sure you have the following installed on your system:
 Feel free to fork the repository and contribute to the project. If you have any suggestions or find bugs, please open an issue or submit a pull request.
 
 
+### Output
+![Screenshot 2024-06-28 001213](https://github.com/SaiSriramKamineni/QRCode-Generator-Python/assets/173617966/1fbcb6e4-e6d2-4182-a0e3-5e23c0c30682)
 
 
 ## Installation
